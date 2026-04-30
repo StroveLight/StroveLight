@@ -1,3 +1,4 @@
+![](./img.png)
 
 ## Lenguajes
 |Lenguaje|Nivel de conocimiento|
